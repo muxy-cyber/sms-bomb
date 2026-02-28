@@ -10,7 +10,7 @@ finally:
 
 def a101(number):
     try:
-        url = "https://www.a101.com.tr/users/otp-login/"
+        url = ''https://www.a101.com.tr/kapida/aldin-aldin''
         payload = {
             "phone" : f"0{number}"
         }
